@@ -1,12 +1,8 @@
 # _printf
 
-A formatted output conversion C project completed as part of the low-level
+A C project completed as part of the low-level
 programming and algorithm track at ALX. The program is a pseudo-
 recreation of the C standard library function, `printf`.
-
-## Dependencies
-
-The `_printf` function was coded on an Ubuntu 20.04 LTS machine with `gcc` version 11.2.0.
 
 ## Usage
 
@@ -21,9 +17,5 @@ converted for output.
 
 ## Authors
 
-* Grace Effiong <[rubylena](https://github.com/rubylena)
-* Chiedozie Ukah <[dozonalx](https://github.com/dozonalx)
 
-<p align="center">
-  <img src="https://i.ibb.co/FJyysxq/printf.png" alt="printf logo">
-</p>
+
